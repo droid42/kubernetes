@@ -8,6 +8,8 @@ https://github.com/nginxinc/kubernetes-ingress
 
 ### Install
 
+kubectl create namespace demo
+
 kubectl create -f nginx-ingress-svc.yaml  -n demo
 
 kubectl create -f nginx-ingress-dly.yaml  -n demo
