@@ -1,4 +1,6 @@
-# kubernetes
+# kubernetes on arm
+
+Raspberry pi 3 (Raspian arm32) and Pine A64 (Armbian arm64)
 
 ## nginx ingress
 
